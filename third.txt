@@ -1,2 +1,6 @@
 joshua 
+<<<<<<< HEAD
 has beautiful eyes
+=======
+is from LA
+>>>>>>> new_file
